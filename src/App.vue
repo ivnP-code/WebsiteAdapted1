@@ -267,7 +267,7 @@ h3{
 }
 @media (max-width: 510px){
 .sidepicture{
-  max-height: 220px;
+  max-height: 200px;
   max-width: 200px;
 }
 }
