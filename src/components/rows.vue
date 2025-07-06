@@ -11,7 +11,7 @@
   <div class="image-wrapper">
     <img src="\images\swiftjpg.jpg" class="inboxpic">
   </div>
-  <div class="inboxcapital">Lorem ipsum dolor sit amet.</div>
+  <div class="inboxcapital">Lorem ipsum dolor sit ameta.</div>
   <div class="inboxtext">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis tempore molestias porro a, incidunt quam ex esse magni itaque minus tempora, hic dolorem dicta placeat recusandae repellendus ad suscipit in.</div>
   <button class="more">ДАЛЕЕ</button>
 </div> <div class="pack">
